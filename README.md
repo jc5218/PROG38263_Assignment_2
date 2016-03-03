@@ -11,3 +11,5 @@ The default-ssl.conf file was pulled from /etc/apache2/sites-available/ for my A
 The users_tables.bmp, verify_table.bmp and user_image_table.bmp contain SQL descriptions of the users, verify, and user_image tables and their fields which this application uses.
 
 Database and target directory settings used for this application are located in the html/config.php file, which should be edited according to your postgreSQL settings and Ubuntu/Linux preferences.
+
+Ignore the html/hikage_icon.png file. That one was just used to test avatar settings. :P
